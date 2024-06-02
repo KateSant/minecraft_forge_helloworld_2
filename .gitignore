@@ -1,0 +1,14 @@
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+build
+run
+forge*changelog.txt
